@@ -1,0 +1,102 @@
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.exe.config
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.pdb
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.AssemblyReference.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.SuggestedBindingRedirects.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.Form1.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.Properties.Resources.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.GenerateResource.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.CoreCompileInputs.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.pdb
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\Newtonsoft.Json.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Buffers.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.IO.Pipelines.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Memory.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Numerics.Vectors.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Encodings.Web.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Json.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.ValueTuple.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\Newtonsoft.Json.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Buffers.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.IO.Pipelines.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Memory.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Numerics.Vectors.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Encodings.Web.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Json.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\bin\Debug\System.ValueTuple.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.CopyComplete
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.exe.config
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.exe
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.pdb
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\Newtonsoft.Json.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Buffers.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.IO.Pipelines.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Memory.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Numerics.Vectors.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Encodings.Web.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Json.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.ValueTuple.dll
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\Newtonsoft.Json.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Buffers.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.IO.Pipelines.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Memory.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Numerics.Vectors.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Encodings.Web.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Json.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\bin\Debug\System.ValueTuple.xml
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.AssemblyReference.cache
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.SuggestedBindingRedirects.cache
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.Form1.resources
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.Properties.Resources.resources
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.GenerateResource.cache
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.CoreCompileInputs.cache
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.CopyComplete
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.exe
+D:\materias do ano de 2025 faculdade\aplicacoes para desktop-segunda\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.pdb
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.exe.config
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.exe
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\AULA09.pdb
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\Newtonsoft.Json.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Buffers.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.IO.Pipelines.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Memory.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Numerics.Vectors.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Encodings.Web.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Json.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.ValueTuple.dll
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\Newtonsoft.Json.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Buffers.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.IO.Pipelines.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Memory.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Numerics.Vectors.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Encodings.Web.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Text.Json.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\bin\Debug\System.ValueTuple.xml
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.AssemblyReference.cache
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.Form1.resources
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.Properties.Resources.resources
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.GenerateResource.cache
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.CoreCompileInputs.cache
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.csproj.CopyComplete
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.exe
+D:\Faculdade - ADS\2 ano\Aplicações para Desktop - Segunda-feira\NONA AULA\AULA09\AULA09\obj\Debug\AULA09.pdb
